@@ -71,6 +71,12 @@ body {
     border-radius: 5px;
     padding: 10px 19px 10px 19px;
     border: none;
+    background: #fff;
+    color: #02073E;
+    border: 1.5px solid #02073E;
+    transition: 0.3s;
+}
+.header_button button:hover{
     background: #02073E;
     color: #fff;
 }
@@ -243,10 +249,10 @@ body {
     padding: 11px 18px 11px 18px;
     Font-size: 16px;
     Line-height: 24px;
-    background: #343d4875;
+    background: #fff;
     border-radius: 5px;
-    color: #fff;
-    border: none;
+    color: #02073E;
+    border: 1.5px solid #02073E;
     margin-top: 40px;
     transition: 0.2s;
 }
@@ -363,6 +369,7 @@ hr {
     width: 320px;
     padding-top: 12px;
     background: #F7F8FB;
+    transition: 0.3s;
 
 }
 
